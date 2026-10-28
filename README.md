@@ -61,3 +61,16 @@ These values are at the top of the sketch:
 | `COIN_TIMEOUT` | How long a ball stays on screen |
 | `MAX_LIVES` | Number of lives |
 
+
+## Thank you
+
+Thanks for checking out Dino Ball Rush! If you build it, I'd love to see a photo or video of it running.
+
+## Contact
+
+Made by **Digbijoy chakroborty**
+
+- Email: digbijoycb1908@gmail.com
+
+If you find a bug or have an idea for a new feature, feel free to open an issue.
+
