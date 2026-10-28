@@ -1,4 +1,4 @@
-# Dino-Ball-Rush_Using_Arduino
+# Dino-Ball-Rush-Using-Arduino
 
 A simple arcade game for Arduino and a 16x2 I2C LCD. Move the dino, collect the balls, and dodge the cacti. You have 3 lives.
 
