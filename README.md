@@ -2,6 +2,10 @@
 
 A simple arcade game for Arduino and a 16x2 I2C LCD. Move the dino, collect the balls, and dodge the cacti. You have 3 lives.
 
+
+![image alt](https://github.com/digbijoy1908/Dino-Ball-Rush_Using_Arduino/blob/16657b1ba65599bf9514dc808bdced179e427027/dino-ball-rush-banner.png)
+
+
 ## How to play
 
 - **LEFT / RIGHT** buttons move the dino sideways.
@@ -18,6 +22,9 @@ A simple arcade game for Arduino and a 16x2 I2C LCD. Move the dino, collect the 
 | 16x2 LCD with I2C backpack (address `0x27`) | 1 |
 | Push buttons | 3 |
 | Jumper wires | several |
+
+## Circuit Diagram
+
 
 ## Wiring
 
