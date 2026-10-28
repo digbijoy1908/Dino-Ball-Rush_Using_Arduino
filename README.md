@@ -52,6 +52,3 @@ These values are at the top of the sketch:
 | `COIN_TIMEOUT` | How long a ball stays on screen |
 | `MAX_LIVES` | Number of lives |
 
-## License
-
-MIT
