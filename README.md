@@ -25,6 +25,8 @@ A simple arcade game for Arduino and a 16x2 I2C LCD. Move the dino, collect the 
 
 ## Circuit Diagram
 
+![image alt](https://github.com/digbijoy1908/Dino-Ball-Rush_Using_Arduino/blob/851c70243d8a1df5956b57f215c42aeb80309fc7/Circuit_Diagram.jpg)
+
 
 ## Wiring
 
